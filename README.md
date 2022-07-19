@@ -1,6 +1,8 @@
 # Buildathon-1
 Guide for participating in NEON BUIDL's first Buildathon
 
+Mozilla Hubs Template: https://hubs.mozilla.com/scenes/DgGdHWC
+
 Spoke by Mozilla Hubs: https://hubs.mozilla.com/spoke
 
 Spoke Video Tutorial: https://hubs.mozilla.com/spoke/projects/tutorial
